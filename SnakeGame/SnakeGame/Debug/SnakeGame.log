@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SnakeGame.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Calories2.cpp
+  Calories.cpp
+  Generating Code...
+Calories.obj : error LNK2005: _main already defined in Calories2.obj
+C:\Users\krmoo\source\repos\SnakeGame\Debug\ClassWork.exe : fatal error LNK1169: one or more multiply defined symbols found
