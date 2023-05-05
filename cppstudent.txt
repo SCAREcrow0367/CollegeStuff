@@ -1,0 +1,40 @@
+void student:: points()
+{
+    switch(grade)
+    {
+    case 'A':
+        return 4.0;
+    case 'B':
+        return 3.0;
+    case 'C':
+        return 2.0;
+    case 'D':
+        return 1.0;
+    case 'F':
+    default:
+        return 0;
+    }
+}
+
+void student::getTests()
+{
+protected:
+	int score1 = 0;
+	int score2 = 0;
+	int score3 = 0;
+	double average = 0.0;
+public:
+while
+{
+cout << "First test score: ";
+cin >> score1;
+cout << "Second test score: ";
+cin >> score2;
+cout << "Third test score: ";
+cin >> score3;
+
+average = calcAverage (int score1, int score2, int score3);
+cout << "Average: " << average << endl;
+}
+return 0;
+}
