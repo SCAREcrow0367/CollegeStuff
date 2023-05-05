@@ -1,0 +1,10 @@
+C:\Users\krmoo\source\repos\movieDiscounter\movieDiscounter\bin\Debug\movieDiscounter.exe.config
+C:\Users\krmoo\source\repos\movieDiscounter\movieDiscounter\bin\Debug\movieDiscounter.exe
+C:\Users\krmoo\source\repos\movieDiscounter\movieDiscounter\bin\Debug\movieDiscounter.pdb
+C:\Users\krmoo\source\repos\movieDiscounter\movieDiscounter\obj\Debug\movieDiscounter.Form1.resources
+C:\Users\krmoo\source\repos\movieDiscounter\movieDiscounter\obj\Debug\movieDiscounter.Properties.Resources.resources
+C:\Users\krmoo\source\repos\movieDiscounter\movieDiscounter\obj\Debug\movieDiscounter.csproj.GenerateResource.cache
+C:\Users\krmoo\source\repos\movieDiscounter\movieDiscounter\obj\Debug\movieDiscounter.csproj.CoreCompileInputs.cache
+C:\Users\krmoo\source\repos\movieDiscounter\movieDiscounter\obj\Debug\movieDiscounter.exe
+C:\Users\krmoo\source\repos\movieDiscounter\movieDiscounter\obj\Debug\movieDiscounter.pdb
+C:\Users\krmoo\source\repos\movieDiscounter\movieDiscounter\obj\Debug\movieDiscounter.csprojAssemblyReference.cache

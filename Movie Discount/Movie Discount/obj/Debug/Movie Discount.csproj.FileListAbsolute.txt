@@ -1,0 +1,5 @@
+C:\Users\krmoo\source\repos\Movie Discount\Movie Discount\obj\Debug\Movie Discount.csprojAssemblyReference.cache
+C:\Users\krmoo\source\repos\Movie Discount\Movie Discount\obj\Debug\Movie_Discount.Form1.resources
+C:\Users\krmoo\source\repos\Movie Discount\Movie Discount\obj\Debug\Movie_Discount.Properties.Resources.resources
+C:\Users\krmoo\source\repos\Movie Discount\Movie Discount\obj\Debug\Movie Discount.csproj.GenerateResource.cache
+C:\Users\krmoo\source\repos\Movie Discount\Movie Discount\obj\Debug\Movie Discount.csproj.CoreCompileInputs.cache

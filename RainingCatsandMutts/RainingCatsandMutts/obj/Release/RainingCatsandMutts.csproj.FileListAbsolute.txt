@@ -1,0 +1,8 @@
+C:\Users\krmoo\source\repos\RainingCatsandMutts\RainingCatsandMutts\bin\Release\RainingCatsandMutts.exe.config
+C:\Users\krmoo\source\repos\RainingCatsandMutts\RainingCatsandMutts\bin\Release\RainingCatsandMutts.exe
+C:\Users\krmoo\source\repos\RainingCatsandMutts\RainingCatsandMutts\bin\Release\RainingCatsandMutts.pdb
+C:\Users\krmoo\source\repos\RainingCatsandMutts\RainingCatsandMutts\obj\Release\RainingCatsandMutts.Properties.Resources.resources
+C:\Users\krmoo\source\repos\RainingCatsandMutts\RainingCatsandMutts\obj\Release\RainingCatsandMutts.csproj.GenerateResource.cache
+C:\Users\krmoo\source\repos\RainingCatsandMutts\RainingCatsandMutts\obj\Release\RainingCatsandMutts.csproj.CoreCompileInputs.cache
+C:\Users\krmoo\source\repos\RainingCatsandMutts\RainingCatsandMutts\obj\Release\RainingCatsandMutts.exe
+C:\Users\krmoo\source\repos\RainingCatsandMutts\RainingCatsandMutts\obj\Release\RainingCatsandMutts.pdb
