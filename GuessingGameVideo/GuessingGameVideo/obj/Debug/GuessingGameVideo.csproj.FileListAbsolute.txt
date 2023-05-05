@@ -1,0 +1,6 @@
+C:\Users\krmoo\source\repos\GuessingGameVideo\GuessingGameVideo\obj\Debug\GuessingGameVideo.csproj.CoreCompileInputs.cache
+C:\Users\krmoo\source\repos\GuessingGameVideo\GuessingGameVideo\bin\Debug\GuessingGameVideo.exe.config
+C:\Users\krmoo\source\repos\GuessingGameVideo\GuessingGameVideo\bin\Debug\GuessingGameVideo.exe
+C:\Users\krmoo\source\repos\GuessingGameVideo\GuessingGameVideo\bin\Debug\GuessingGameVideo.pdb
+C:\Users\krmoo\source\repos\GuessingGameVideo\GuessingGameVideo\obj\Debug\GuessingGameVideo.exe
+C:\Users\krmoo\source\repos\GuessingGameVideo\GuessingGameVideo\obj\Debug\GuessingGameVideo.pdb
